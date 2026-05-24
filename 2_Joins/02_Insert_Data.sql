@@ -1,4 +1,3 @@
-
 -- Insert data into Dept
 
 insert into Dept

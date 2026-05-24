@@ -1,4 +1,3 @@
-
 --Null handling
 select *from student 
 

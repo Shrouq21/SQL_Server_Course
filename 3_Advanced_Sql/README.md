@@ -236,9 +236,3 @@ Update statements can apply different logic based on conditions.
 - Salary adjustments
 - Status updates
 - Business rules enforcement
-
----
-
-## Chapter Summary
-
-This chapter transitions from basic SQL usage to advanced querying techniques, focusing on performance, correctness, and real-world database scenarios. It is essential for exams and professional database development.

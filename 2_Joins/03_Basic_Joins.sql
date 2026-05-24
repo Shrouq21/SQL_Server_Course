@@ -1,4 +1,3 @@
-
 -- Cross Join: Cartesian Product (sname * Dname)
 
 select Sname,Dname  

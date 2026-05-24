@@ -1,4 +1,3 @@
-
 --  Keywords and Like operator
 
 select * from student

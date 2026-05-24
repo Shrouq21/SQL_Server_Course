@@ -1,4 +1,3 @@
-
 -- Date Functions
 -- Used for date calculations and formatting
 -- DATEDIFF returns the difference between two dates

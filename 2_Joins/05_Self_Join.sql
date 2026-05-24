@@ -1,4 +1,3 @@
-
 -- Self Join (employees with supervisors)
 
 select x.ename as EmpName,y.ename as supername

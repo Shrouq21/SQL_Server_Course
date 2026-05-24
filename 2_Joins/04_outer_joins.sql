@@ -1,4 +1,3 @@
-
 --Outer join
 
 --Left Join( all students even if no dept)
