@@ -22,9 +22,6 @@ This repository serves as:
 * A resource to review SQL Server concepts when needed.
 
 ---
-
-## Course
-**Platform:** Maharah Tech
 **Course Link:** [SQL Server Course — Maharah Tech](https://maharatech.gov.eg/course/view.php?id=2288&lang=ar)
 
 ---
