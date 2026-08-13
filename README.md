@@ -13,15 +13,6 @@ The repository covers the different chapters of the course, including:
 *  **Additional Notes** — Extra explanations and examples that helped me understand the topics.
 
 ---
-
-## Purpose
-This repository serves as:
-* A personal reference for **SQL Server** concepts.
-* A collection of practical exercises and labs.
-* Documentation of my learning journey.
-* A resource to review SQL Server concepts when needed.
-
----
 **Course Link:** [SQL Server Course — Maharah Tech](https://maharatech.gov.eg/course/view.php?id=2288&lang=ar)
 
 ---
