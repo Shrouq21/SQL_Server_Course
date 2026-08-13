@@ -1,0 +1,16 @@
+-- NULL Handling Functions
+-- ISNULL: replaces NULL with a specified value
+-- COALESCE: returns the first non-NULL value
+-- NULLIF: returns NULL if two values are equal
+
+select isnull(st_fname,st_lname)
+from student
+
+select coalesce(st_fname,st_lname,st_address,'No data') 
+from student
+
+
+select nullif('ahmed','ahmed') --compare two values 
+-- If first = secod it returns null
+-- otherwise,it returns first value
+
